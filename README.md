@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @robertlawsonvaughn
-- 👀 I’m interested in fixing blockchain through an entirely new architectural model.  I work for Intel Corp. but I am also the founder of TrxSys.com.  
+- 👀 I’m interested in exploring solutions to technology problems.  I work for Intel Corp. but I am also the founder of AiWerkz.com and TrxSys.com.  
 - 📫 How to reach me ... robert.lawson.vaughn@trxsys.com
 
 <!---
